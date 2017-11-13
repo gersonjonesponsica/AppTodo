@@ -4,6 +4,8 @@
  * @flow
  */
 
+//  hahahah
+//  hahahahhahah
 import React, { Component} from 'react';
 import {
   Platform,
@@ -20,7 +22,7 @@ import {
 } from 'react-native';
 import Icon from 'react-native-vector-icons/FontAwesome';
 // const customTextButton = (
-  
+  // hahahahahaha
 // );
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' +
